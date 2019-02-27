@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527183209533",
+    "firebase_url": "https://testfirestone-db73f.firebaseio.com",
+    "project_id": "testfirestone-db73f",
+    "storage_bucket": "testfirestone-db73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527183209533:android:f871f5a10186e6fc",
+        "android_client_info": {
+          "package_name": "com.iodev.flutterfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527183209533-kgulmor9ct7deunpgiictdcaqidn65fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iodev.flutterfirestore",
+            "certificate_hash": "ccca13c0b9312c42ba4eb911a460d29fe4130d34"
+          }
+        },
+        {
+          "client_id": "527183209533-csd7sr751igiogfkggaagu5d370vajcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5W26NllaZFuOZURYRopGVOooEgvdgsT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527183209533-csd7sr751igiogfkggaagu5d370vajcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
